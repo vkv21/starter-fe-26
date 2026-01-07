@@ -3,6 +3,10 @@ logs
 *.log
 npm-debug.log*
 
+# Environment files
+.env
+
+# Dependency directories
 node_modules
 dist
 dist-ssr
